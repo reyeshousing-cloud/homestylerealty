@@ -14,7 +14,7 @@ export default function Home() {
       <section className="relative h-screen w-full overflow-hidden">
         <div className="absolute inset-0 bg-black/30 z-10" />
         <img 
-          src="https://s7.ezgif.com/tmp/ezgif-72e5d93fa935fdfc.gif" 
+          src="https://i.ibb.co/gbmYXsfc/7578547-uhd-3840-2160-30fps-ezgif-com-video-to-gif-converter.gif" 
           alt="Modern Architecture" 
           className="absolute inset-0 w-full h-full object-cover grayscale-[30%]"
         />
